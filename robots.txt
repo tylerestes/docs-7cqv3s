@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-1lplb4.salamduit.sbs/sitemap.xml
